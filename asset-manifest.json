@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/pure-react-carousel/static/css/main.da5b7534.chunk.css",
+    "main.js": "/pure-react-carousel/static/js/main.38c4a4c4.chunk.js",
+    "main.js.map": "/pure-react-carousel/static/js/main.38c4a4c4.chunk.js.map",
+    "runtime-main.js": "/pure-react-carousel/static/js/runtime-main.7024a989.js",
+    "runtime-main.js.map": "/pure-react-carousel/static/js/runtime-main.7024a989.js.map",
+    "static/js/2.0d2b9983.chunk.js": "/pure-react-carousel/static/js/2.0d2b9983.chunk.js",
+    "static/js/2.0d2b9983.chunk.js.map": "/pure-react-carousel/static/js/2.0d2b9983.chunk.js.map",
+    "index.html": "/pure-react-carousel/index.html",
+    "static/css/main.da5b7534.chunk.css.map": "/pure-react-carousel/static/css/main.da5b7534.chunk.css.map",
+    "static/js/2.0d2b9983.chunk.js.LICENSE.txt": "/pure-react-carousel/static/js/2.0d2b9983.chunk.js.LICENSE.txt",
+    "static/media/slider_pic1.d3ab0246.jpg": "/pure-react-carousel/static/media/slider_pic1.d3ab0246.jpg",
+    "static/media/slider_pic2.fed0dd86.jpg": "/pure-react-carousel/static/media/slider_pic2.fed0dd86.jpg",
+    "static/media/slider_pic3.9a89b58b.jpg": "/pure-react-carousel/static/media/slider_pic3.9a89b58b.jpg",
+    "static/media/slider_pic4.45901065.jpg": "/pure-react-carousel/static/media/slider_pic4.45901065.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7024a989.js",
+    "static/js/2.0d2b9983.chunk.js",
+    "static/css/main.da5b7534.chunk.css",
+    "static/js/main.38c4a4c4.chunk.js"
+  ]
+}
